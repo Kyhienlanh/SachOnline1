@@ -178,6 +178,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\ChuDe1Controller.cs" />
     <Compile Include="Areas\Admin\Controllers\homeController.cs" />
     <Compile Include="Areas\Admin\Controllers\SachController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
@@ -320,6 +321,8 @@
     <Content Include="Areas\Admin\Views\home\Index.cshtml" />
     <Content Include="Areas\Admin\Views\home\Login.cshtml" />
     <Content Include="Areas\Admin\Views\Shared\_LayoutAdmin.cshtml" />
+    <Content Include="Areas\Admin\Views\ChuDe1\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\ChuDe1\Create.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
