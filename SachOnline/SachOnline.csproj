@@ -182,6 +182,7 @@
     <Compile Include="Areas\Admin\Controllers\homeController.cs" />
     <Compile Include="Areas\Admin\Controllers\SachController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\dasdasdsadsaController.cs" />
     <Compile Include="Controllers\GioHangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -390,6 +391,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Views\Sach\" />
+    <Folder Include="Views\dasdasdsadsa\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
